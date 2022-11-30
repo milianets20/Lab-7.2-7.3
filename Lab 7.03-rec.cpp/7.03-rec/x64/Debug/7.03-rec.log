@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  7.03-rec.cpp
+C:\Users\kama\OneDrive\Робочий стіл\test\Lab 7.03-rec.cpp\Lab 7.03-rec\Lab 7.03-rec.cpp(63): warning C4715: Part1_CountCols: значение возвращается не при всех путях выполнения
+     Создается библиотека C:\Users\kama\OneDrive\Робочий стіл\test\Lab 7.03-rec.cpp\x64\Debug\7.03-rec.lib и объект C:\Users\kama\OneDrive\Робочий стіл\test\Lab 7.03-rec.cpp\x64\Debug\7.03-rec.exp
+  7.03-rec.vcxproj -> C:\Users\kama\OneDrive\Робочий стіл\test\Lab 7.03-rec.cpp\x64\Debug\7.03-rec.dll
